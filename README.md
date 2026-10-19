@@ -41,6 +41,16 @@ I worked on data cleaning, data analysis, SQL queries, and dashboard development
 - Comparison of outlet performance
 - Analysis of important business KPIs
 
+Project Structure
+
+retail-business-intelligence-grocery-sales/
+├── data/
+├── notebooks/
+├── sql/
+├── dashboard/
+├── images/
+└── README.md
+
 ## What I Learned
 
 Through this project, I gained practical experience in data cleaning, exploratory data analysis, SQL querying, and dashboard creation. I also learned how to use data to identify business trends and present findings in a clear and understandable way.
